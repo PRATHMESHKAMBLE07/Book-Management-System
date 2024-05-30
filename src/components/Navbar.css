@@ -1,0 +1,20 @@
+#Mainnav
+{
+    height: 20vh;
+    width: 100vw;
+    border-radius: 20px;
+    
+
+    color: white;
+    /* background-color: #7fbdbd; */
+   background:transparent;
+   backdrop-filter: blur(30px);
+   border: 1px solid;
+   margin-bottom: 50px;
+  
+}
+
+#nav
+{
+    color: white;
+}

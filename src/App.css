@@ -1,0 +1,23 @@
+h1 {
+  height: 50px;
+  width: 100%;
+  color: white;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+#main-container {
+  height: 100vh;
+  width: 100vw;
+
+  /* background-image: url(images/book-background1.avif); */
+  background-image: url(images/back.webp);
+  background-repeat: no-repeat;
+ 
+  background-size: cover;
+
+  padding-top: 20px;
+}
