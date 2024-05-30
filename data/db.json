@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "price": "680"
+    },
+    {
+      "id": "2",
+      "title": "The Catcher in the Rye",
+      "author": " J.D. Salinger",
+      "price": "540"
+    },
+    {
+      "id": "3",
+      "title": "Wings of Fire",
+      "author": "Dr. A.P.J. Abdul Kalam",
+      "price": "970"
+    }
+  ]
+}
